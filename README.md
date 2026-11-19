@@ -32,6 +32,12 @@ The existence of such a substrate or interaction mechanism is not established. T
 - [TRISH.md](TRISH.md) — the full essay, limitations, and preliminary references.
 - [CHANGELOG.md](CHANGELOG.md) — version and editorial history.
 
+## Related works · Споріднені роботи
+
+- [Перед дзеркалом надінтелекту](essays/before-the-mirror-of-superintelligence.uk.md) — самостійне філософське есе про те, як перспектива втрати влади може змінити ставлення людей до слабших і до створеного ними розуму.
+- [Intelligence Attractor Hypothesis](https://github.com/vitalii87/intelligence-attractor-hypothesis) — дослідницька гіпотеза про зближення властивостей незалежно сформованих інтелектуальних систем за спільних цілей та обмежень.
+
 ## Authorship
+
 
 Author: **Vitalii Zhyliaiev**. AI assistance was used for conceptual exploration, structuring, drafting, and critical examination, as disclosed in the essay's author's note.
